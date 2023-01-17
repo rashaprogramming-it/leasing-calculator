@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Nekst-Black';
+    src: url('@/assets/fonts/Nekst/Nekst-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Regular';
+    src: url('@/assets/fonts/Gilroy/Gilroy-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('@/assets/fonts/Gilroy/Gilroy-Bold.ttf');
+}
