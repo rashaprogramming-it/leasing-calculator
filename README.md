@@ -1,6 +1,15 @@
-# leasing-calculator
+# Leasing Calculator
 
-This template should help get you started developing with Vue 3 in Vite.
+This calculator, having the value of the car will help you calculate the initial payment, the monthly payment, as well as the amount of the leasing agreement. Interest rate: 3.5%.
+
+**Technologies/tools used:**
+    
+    * VueJS 3
+    * CompositionAPI
+    * Pinia
+    * Vite
+    * TypeScript
+    * TailwindCSS
 
 ## Recommended IDE Setup
 
